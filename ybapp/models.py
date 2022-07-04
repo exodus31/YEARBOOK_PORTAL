@@ -1,3 +1,4 @@
+from tkinter import CASCADE
 from django.db import models
 
 # Create your models here.
@@ -7,7 +8,7 @@ class Student(models.Model):
     lname = models.CharField(max_length=50)
     email = models.EmailField(max_length=50)
     img = models.ImageField(blank=False, null=False)    
-    year = models.IntegerField(null=False,default=0)
+    year = models.IntegerField()
 
 
     def __str__(self):
@@ -16,3 +17,4 @@ class Student(models.Model):
 class StudentGallery(models.Model):
     gimg = models.ImageField(blank=False, null=False)
 
+    
