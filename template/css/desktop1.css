@@ -1,0 +1,648 @@
+.desktop2-desktop2 {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.desktop2-pages {
+  top: 61px;
+  left: 51px;
+  width: 1340px;
+  height: 898px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-right-page {
+  top: 0.9989855289459229px;
+  left: 670px;
+  width: 670px;
+  height: 896.9998168945312px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-rectangle2 {
+  left: -25px;
+  width: 670px;
+  bottom: -2px;
+  height: 897px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px 0 0 25px;
+  background-color: rgba(255, 251, 232, 1);
+}
+.desktop2-left-page {
+  top: 0.00002288818359375px;
+  left: 0px;
+  width: 670px;
+  height: 897px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(255, 251, 232, 1);
+}
+.desktop2-text {
+  top: 278px;
+  left: 816px;
+  color: rgba(0, 0, 0, 1);
+  width: 417px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-svg {
+  right: 43px;
+  width: 282;
+  bottom: 62px;
+  height: 249;
+  position: absolute;
+}
+.desktop2-group18 {
+  top: 32px;
+  left: 614.5291748046875px;
+  width: 112px;
+  height: 850px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-group1 {
+  top: 28.17138671875px;
+  left: 84.8377685546875px;
+  width: 27px;
+  height: 776.6571655273438px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-svg01 {
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg02 {
+  top: 53.48573303222656px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg03 {
+  top: 106.97151184082031px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg04 {
+  top: 160.4571075439453px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg05 {
+  top: 213.9428253173828px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg06 {
+  top: 267.4285888671875px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg07 {
+  top: 320.914306640625px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg08 {
+  top: 374.39990234375px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg09 {
+  top: 427.8857421875px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg10 {
+  top: 481.371337890625px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg11 {
+  top: 534.8570556640625px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg12 {
+  top: 588.3428955078125px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg13 {
+  top: 641.8287353515625px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg14 {
+  top: 695.3143310546875px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg15 {
+  top: 748.7999267578125px;
+  left: -0.000002225713842562982px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-group2 {
+  top: 28.17138671875px;
+  left: 0px;
+  width: 27px;
+  height: 776.6571655273438px;
+  display: flex;
+  z-index: 1;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-svg16 {
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg17 {
+  top: 53.48573303222656px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg18 {
+  top: 106.97151184082031px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg19 {
+  top: 160.4571075439453px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg20 {
+  top: 213.9428253173828px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg21 {
+  top: 267.4285888671875px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg22 {
+  top: 320.914306640625px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg23 {
+  top: 374.39990234375px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg24 {
+  top: 427.8857421875px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg25 {
+  top: 481.371337890625px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg26 {
+  top: 534.8570556640625px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg27 {
+  top: 588.3428955078125px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg28 {
+  top: 641.8287353515625px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg29 {
+  top: 695.3143310546875px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-svg30 {
+  top: 748.7999267578125px;
+  left: 0.000047606965381419286px;
+  width: 27;
+  height: 28;
+  position: absolute;
+}
+.desktop2-group17 {
+  top: 0px;
+  left: 12.4708251953125px;
+  width: 84px;
+  height: 850px;
+  display: flex;
+  z-index: 2;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop2-export12 {
+  top: 751px;
+  left: 6px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export13 {
+  top: 644px;
+  left: 1px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export11 {
+  top: 694px;
+  left: 1px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1101 {
+  top: 216px;
+  left: 0px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1102 {
+  top: 323px;
+  left: 5px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1103 {
+  top: 373px;
+  left: 5.000024795532227px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1104 {
+  top: 107px;
+  left: 5px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1105 {
+  top: 537px;
+  left: 5px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1106 {
+  top: 266px;
+  left: 0.0000247955322265625px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1107 {
+  top: 430px;
+  left: 0px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1108 {
+  top: 587px;
+  left: 5.000024795532227px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1109 {
+  top: 480px;
+  left: 0.0000247955322265625px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1110 {
+  top: 157px;
+  left: 5.000024795532227px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1111 {
+  top: 0px;
+  left: 0px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-export1112 {
+  top: 50px;
+  left: 0.00002491474151611328px;
+  width: 78px;
+  height: 99px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.desktop2-frame1 {
+  top: 551px;
+  left: 931px;
+  width: 289px;
+  height: 79px;
+  display: flex;
+  padding: 0 15px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 56px;
+  background-color: rgba(12, 83, 155, 1);
+}
+.desktop2-text4 {
+  color: rgba(255, 255, 255, 1);
+  width: 259px;
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-frame2 {
+  top: 587px;
+  left: 919px;
+  width: 314px;
+  display: flex;
+  padding: 0 25px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 56px;
+  background-color: rgba(12, 83, 155, 1);
+}
+.desktop2-text5 {
+  color: rgba(255, 252, 244, 1);
+  width: 298px;
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-rectangle5 {
+  top: 157px;
+  left: 108px;
+  width: 508px;
+  height: 709px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-text6 {
+  top: 382px;
+  left: 196px;
+  color: rgba(0, 0, 0, 1);
+  width: 314px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-rectangle38 {
+  top: 123px;
+  left: 802px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-rectangle41 {
+  top: 737px;
+  left: 802px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-rectangle42 {
+  top: 737px;
+  left: 997px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-rectangle43 {
+  top: 737px;
+  left: 1192px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-rectangle39 {
+  top: 123px;
+  left: 997px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-rectangle40 {
+  top: 124px;
+  left: 1192px;
+  width: 157px;
+  height: 161px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(217, 217, 217, 1);
+}
+.desktop2-svg31 {
+  top: 61px;
+  left: 51px;
+  width: 253;
+  height: 232;
+  position: absolute;
+}
